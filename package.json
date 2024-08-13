@@ -1,19 +1,19 @@
 {
-   "name": "suhail-md",
-   "version": "1.3.9",
+   "name": "hassan-md",
+   "version": "4.2.2",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "suhail": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail",
-            "old-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-            "fis-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+            "run": "pm2 start . --deep-monitoring --attach --name hassan || node .",
+            "suhail": "pm2 start . --deep-monitoring --attach --name hassan || node .",
+            "start": "pm2 start . --attach --name hassan",
+            "stop": "pm2 stop hassan",
+            "old-heroku-postbuild": "git clone https://github.com/itxhassan069/hassan-md.git temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+            "fis-heroku-postbuild": "git clone https://github.com/itxhassan069/hassan-md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "MR HASSAN",
    "license" :"Apache-2.0",
    "dependencies": {
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -74,8 +74,8 @@
    },
    "--repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+      "url": "git+hhttps://github.com/itxhassan069/hassan-md.git"
    },
-   "--bugs": { "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues" },
-   "--homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "--bugs": { "url": "httpsm://github.com/itxhassan069/hassan-md/issues" },
+   "--homepage": "/https://github.com/itxhassan069/hassan-md#readme"
 }
