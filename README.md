@@ -1,15 +1,15 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> MR HASSAN </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban! ✔️</h4> 
+<h4 align="center"> ✔️ MR HASSAN! ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="MR/HASSAN" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Suhail_Md is free to use" href="" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -145,10 +145,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *MR HASSAN is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use MR HASSAN at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: MR HASSAN SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
