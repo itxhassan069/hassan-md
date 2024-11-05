@@ -15,7 +15,7 @@ global.location = "Lahore, Pakistan";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
-global.DATABASE_URL = process.env.DATABASE_URL || "postgresql://hassan:SRmq1H-6iGN8X-U3lEZYOQ@stormy-druid-15759.7tt.aws-us-east-1.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full";
+global.DATABASE_URL = process.env.DATABASE_URL || "null";
 
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github = process.env.GITHUB || "https://github.com/itxhassan069/hassan-md";
